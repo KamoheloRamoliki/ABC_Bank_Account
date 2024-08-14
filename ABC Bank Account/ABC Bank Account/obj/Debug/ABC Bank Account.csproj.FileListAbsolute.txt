@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Belgium Campus works\Year 2\Part 3\PRG 251\Test\CT2_ABC_Bank\ABC Bank Account\ABC Bank Account\obj\Debug\ABC Bank Account.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Belgium Campus works\Year 2\Part 3\PRG 251\Test\CT2_ABC_Bank\ABC Bank Account\ABC Bank Account\obj\Debug\ABC_Bank_Account.ABCBank.resources
+C:\Users\User\Documents\Belgium Campus works\Year 2\Part 3\PRG 251\Test\CT2_ABC_Bank\ABC Bank Account\ABC Bank Account\obj\Debug\ABC_Bank_Account.Form1.resources
+C:\Users\User\Documents\Belgium Campus works\Year 2\Part 3\PRG 251\Test\CT2_ABC_Bank\ABC Bank Account\ABC Bank Account\obj\Debug\ABC_Bank_Account.Properties.Resources.resources
+C:\Users\User\Documents\Belgium Campus works\Year 2\Part 3\PRG 251\Test\CT2_ABC_Bank\ABC Bank Account\ABC Bank Account\obj\Debug\ABC Bank Account.csproj.GenerateResource.cache
+C:\Users\User\Documents\Belgium Campus works\Year 2\Part 3\PRG 251\Test\CT2_ABC_Bank\ABC Bank Account\ABC Bank Account\obj\Debug\ABC Bank Account.csproj.CoreCompileInputs.cache
